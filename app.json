@@ -7,6 +7,14 @@
       "ios",
       "android",
       "web"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7a3662d0-4f5b-42ce-8eed-554150ac603a"
+      }
+    },
+    "android": {
+      "package": "com.darksoulxpro.blank"
+    }
   }
 }
